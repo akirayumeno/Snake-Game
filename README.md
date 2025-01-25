@@ -18,10 +18,10 @@ This is a simple and fun **Snake Game** developed to bring back the classic arca
 ## Installation 🚀
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/akirayumeno/Snake-Game.git
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Snake-Game
 3.Run the game:
 run the main.py
 
